@@ -1,4 +1,4 @@
-const CACHE = 'django-dash-v1';
+const CACHE = 'django-dash-v3';
 const ASSETS = [
   './',
   './index.html',

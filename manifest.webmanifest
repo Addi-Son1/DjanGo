@@ -1,6 +1,6 @@
 {
-  "name": "Django Dash",
-  "short_name": "Dash",
+  "name": "DjangoDash",
+  "short_name": "Django",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#0b0e14",
